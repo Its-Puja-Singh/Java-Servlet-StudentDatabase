@@ -7,7 +7,7 @@ package studentsearch;
 
 /**
  *
- * @author Kushagra
+ * @author Puja
  */
 import javax.swing.*;
 import java.awt.*;
